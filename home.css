@@ -1,0 +1,17 @@
+body {
+    font-family: "Nova Square", sans-serif;
+    color: #bababa;
+}
+
+html, body{
+    height:100%;
+    padding: 0px;
+    margin: 0;
+}
+
+section{
+    height: 100%;
+    position: relative;
+    background: rgba(35,25,54,1);
+}
+
